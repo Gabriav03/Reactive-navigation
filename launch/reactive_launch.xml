@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="navigation" exec="reactive" name="reactive"/>
+</launch>
