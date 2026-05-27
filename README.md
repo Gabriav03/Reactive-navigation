@@ -2,6 +2,8 @@
 
 Este paquete de ROS 2 implementa un sistema de **navegación reactiva en tiempo real** para una plataforma robótica móvil (`reactive`). El sistema procesa de forma dinámica las lecturas de un sensor de rango (LiDAR) para calcular trayectorias libres de obstáculos mediante un algoritmo adaptativo de búsqueda de huecos (*Gap Finding*), ponderación de sectores y un lazo de control cerrado mediante un controlador PID integrado con una Máquina de Estados Finitos (FSM).
 
+<img src="./docs/reactive_navigation_sim.gif" alt="Demostración de Navegación Reactiva" width="80%">
+
 <video autoplay loop muted playsinline width="80%">
   <source src="https://github.com/Gabriav03/Reactive-navigation/raw/main/docs/reactive_navigation_sim.mp4" type="video/mp4">
 </video>
