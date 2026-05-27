@@ -4,12 +4,6 @@ Este paquete de ROS 2 implementa un sistema de **navegación reactiva en tiempo 
 
 <img src="./docs/reactive_navigation_sim.gif" alt="Demostración de Navegación Reactiva" width="80%">
 
-
-
-
-
-
-
 <video autoplay loop muted playsinline width="80%">
   <source src="./docs/reactive_navigation_sim.mp4" alt="Demostración de Navegación Reactiva" type="video/mp4">
 </video>
